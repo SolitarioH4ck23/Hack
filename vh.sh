@@ -1,3 +1,3 @@
 #!/bin/bash
-echo -e "bash vh.sh"
+echo "bash vh.sh"
 yes SOLITARIO TE HACKEOOOOO🤡
